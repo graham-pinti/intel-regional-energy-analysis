@@ -1,6 +1,6 @@
 # Intel Data Center Site Selection: U.S. Regional Energy Analysis
 
-**[View Interactive Dashboard on Tableau Public](your-link-here)**
+**[View Interactive Dashboard on Tableau Public]([your-link-here](https://public.tableau.com/app/profile/graham.pinti/viz/G_PintiIntelRegionalEnergyAnalysisDashboardPublic/Dashboard?publish=yes))**
 
 Built for Intel's Sustainability Team as part of the Global Career Accelerator 
 Data Science Track at the University of Vermont. Intel is planning a new data 
